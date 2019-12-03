@@ -20,6 +20,7 @@
 # Notice that the functions are almost identical. Do we really need
 # all of these identical functions? What happens if change functionA
 # so that instead of calling functionB, it calls ITSELF. Try it.
+# A function that calls itself is called a RECURSIVE function.
 
 def functionE(d):
     print('Start function E value is ' + str(d))

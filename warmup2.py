@@ -21,8 +21,9 @@
 # EXERCISE 4
 # Once again, we have a set of functions that all look almost
 # identical. What happens if we make print_starting_at_0 call
-# itself instead of calling print_starting_at_1? Try it on
-# lists of a bunch of different sized lists.
+# itself instead of calling print_starting_at_1? In other words
+# make it a RECURSIVE function. Try it on lists of a bunch of
+# different sized lists.
 
 # CHALLENGE PROBLEM
 # Can you modify the print_starting_at_0 function so that it
