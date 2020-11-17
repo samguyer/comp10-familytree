@@ -35,6 +35,9 @@ def mother_of(p):
     return p[2]
 
 # ---- Coding problems here ----------------------------------------
+#
+# Replace "return False" with code that will compute the right
+# answer for the given question.
 
 # -- Return True if p1 is the mother of p2
 def is_mother(p1, p2):
