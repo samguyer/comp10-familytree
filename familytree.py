@@ -57,6 +57,25 @@ def is_sibling(p1, p2):
 def is_cousin(p1, p2):
     return False
 
+# === STOP HERE =============================================
+
+# -- Print out a person's grandparents
+#    Make sure to check for 'None' where appropriate
+def print_grandparents(p):
+    return
+
+# -- Print out a person's great grandparents
+#    Make sure to check for 'None' where appropriate
+def print_great_grandparents(p):
+    return
+
+# -- Print out a person's ancestors (all of them,
+#    up to the point where we hit 'None'
+def print_ancestors(p):
+    return
+
+# === STOP HERE =============================================
+
 # -- Return True is p1 is the maternal grandmother of p2
 #    Try Jane and Jonah (True), Jane and Jacob (False), and
 #    Jane and Ethel (False, should not cause error)
