@@ -104,7 +104,7 @@ def is_ancestor(p1, p2):
 
 # ---- Main program ------------------------------------------------
 
-fn = input('Enter family tree file name: ')
+fn = 'guyer.txt'   # input('Enter family tree file name: ')
 people = read_family_file(fn)
 print('Found {} people'.format(len(people)))
 
